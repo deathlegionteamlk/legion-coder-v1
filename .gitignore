@@ -1,0 +1,25 @@
+# Large binaries
+*.exe
+*.apk
+*.tar.gz
+*.zip
+node_modules/
+jdk/
+android-sdk/
+release/
+dist/
+
+# Build artifacts
+*.asar
+*.dll
+*.bin
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
